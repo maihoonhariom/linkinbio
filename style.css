@@ -97,7 +97,7 @@ marquee{
         flex-direction: column;
         justify-content: space-around;
         align-items: center;
-        padding:0 5rem;
+        padding:0 3rem;
     }
     .item-list{
         background-color: #000;
