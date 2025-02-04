@@ -78,13 +78,13 @@ marquee{
         font-family: sans-serif;
         font-weight: 900;
         font-size: 13px;
-        transform: translateY(-4rem);
+        transform: translateY(-6rem);
         color: #FEB000;
     }
     
     .main{
         /* background-color: red; */
-        transform: translateY(13rem);
+        transform: translateY(10rem);
         height: 20rem;
     }
     .container{
@@ -133,7 +133,7 @@ marquee{
         display: flex;
         flex-direction: column;
         gap: 1rem;
-        transform: translateY(13rem);
+        transform: translateY(7rem);
         bottom: 0;
     }
     footer>div:first-child{
